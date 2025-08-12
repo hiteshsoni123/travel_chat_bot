@@ -4,3 +4,4 @@ openai
 bcrypt
 python-dotenv
 uvicorn
+fastapi
