@@ -1,0 +1,6 @@
+flask
+flask-sock
+openai
+bcrypt
+python-dotenv
+uvicorn
